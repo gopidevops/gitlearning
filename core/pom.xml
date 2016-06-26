@@ -10,7 +10,7 @@
 
     <artifactId>time-tracker-core</artifactId>
     <packaging>jar</packaging>
-    <name>Time Tracker (Core)</name>
+    <name>Time Tracker1(Core)</name>
 
     <dependencies>
         <dependency>
