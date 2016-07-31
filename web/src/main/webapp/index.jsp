@@ -13,7 +13,7 @@
 <body>
   <h1>Example Web Page ready to deploy</h1>
   <p>
-    This is a very simple example web page on a JSP.
+    This is a very simple example.
   </p>
 </body>
 </html>
