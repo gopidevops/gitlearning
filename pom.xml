@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>training.time-tracker</groupId>
-    <artifactId>time-tracker</artifactId>
+    <artifactId>time-tracker-parent</artifactId>
     <packaging>pom</packaging>
     <version>0.3.1-SNAPSHOT</version>
     <name>Time Tracker (Parent)</name>
