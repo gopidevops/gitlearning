@@ -1,0 +1,17 @@
+PS C:\Users\Administrator> Import-Module ServerManager
+PS C:\Users\Administrator> Add-WindowsFeature web-server -includeallsubfeature
+
+Success Restart Needed Exit Code      Feature Result
+------- -------------- ---------      --------------
+True    No             Success        {ASP.NET 4.5, .NET Framework 3.5 (includes...
+WARNING: Windows automatic updating is not enabled. To ensure that your newly-installed role or feature is
+automatically updated, turn on Windows Update.
+
+
+PS C:\Users\Administrator> Add-WindowsFeature Web-WebServer, Web-Security, Web-Filtering
+
+Success Restart Needed Exit Code      Feature Result
+------- -------------- ---------      --------------
+True    No             NoChangeNeeded {}
+
+-- 
