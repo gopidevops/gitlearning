@@ -1,0 +1,10 @@
+PS C:\Users\saipr> $modifyXML= 'E:\5. PS_learning\pom.xml'
+$file=(Get-Content $modifyXML)
+$editfile= (Set-Content $modifyXML)
+$editfile.Save('E:\5. PS_learning\pom.xml')
+cmdlet Set-Content at command pipeline position 1
+Supply values for the following parameters:
+Value[0]: <t1>Hello World</t1>
+Value[1]: <t2>Validate-phase</t2>
+Value[2]: <t3>Finish</t3>
+Value[3]: [Enter]
