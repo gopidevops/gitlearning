@@ -1,0 +1,6 @@
+$myObject = New-Object System.Object
+
+$myObject | Add-Member -type NoteProperty -name Name -Value "BOB"
+$myObject | Add-Member -type NoteProperty -name Manufacturer -Value "Dell"
+$myObject | Add-Member -type NoteProperty -name ProcessorSpeed -Value "3 Ghz"
+$myObject | Add-Member -type NoteProperty -name Memory -Value "6 GB"
