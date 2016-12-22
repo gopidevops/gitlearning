@@ -1,0 +1,31 @@
+D:\Python\python.exe C:/Users/saipr/PycharmProjects/readfile/readlines.py
+Enter file name:mbox-test.txt
+mail id: stephen.marquard@uct.ac.za
+mail id: louis@media.berkeley.edu
+mail id: zqian@umich.edu
+mail id: rjlowe@iupui.edu
+mail id: zqian@umich.edu
+mail id: rjlowe@iupui.edu
+mail id: cwen@iupui.edu
+mail id: cwen@iupui.edu
+mail id: gsilver@umich.edu
+mail id: gsilver@umich.edu
+mail id: zqian@umich.edu
+mail id: gsilver@umich.edu
+mail id: wagnermr@iupui.edu
+mail id: zqian@umich.edu
+mail id: antranig@caret.cam.ac.uk
+mail id: gopal.ramasammycook@gmail.com
+mail id: david.horwitz@uct.ac.za
+mail id: david.horwitz@uct.ac.za
+mail id: david.horwitz@uct.ac.za
+mail id: david.horwitz@uct.ac.za
+mail id: stephen.marquard@uct.ac.za
+mail id: louis@media.berkeley.edu
+mail id: louis@media.berkeley.edu
+mail id: ray@media.berkeley.edu
+mail id: cwen@iupui.edu
+mail id: cwen@iupui.edu
+mail id: cwen@iupui.edu
+
+Process finished with exit code 0
